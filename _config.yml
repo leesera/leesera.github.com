@@ -1,12 +1,13 @@
 title: Hi 
 author: SeraLee 
 description: Hi, It's Sera's blog 
+future: true
 
 highlighter: null
 permalink: /:title
 
 url: "https://leesera.github.io/"
-baseurl: "https://leesera.github.io/"
+baseurl: 
 
 sass:
   sass_dir: public/css
